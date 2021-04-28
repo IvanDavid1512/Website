@@ -23,3 +23,9 @@ nav a{
 .tamaño{
     font-size: 30px;
 }
+.formulario{
+    background:white;
+    padding: 0.5px;
+    margin-left: 0.1px;
+    margin-right: 1500px;
+}
